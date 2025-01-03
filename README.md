@@ -43,15 +43,6 @@ Let’s connect to collaborate on innovative projects or explore new opportuniti
 - **Technologies**: JavaScript (ES6+), React, Node.js, MongoDB.  
 - **Link**: [Metana Full Stack Bootcamp](https://metana.io/full-stack-bootcamp)
 
-### **3. AI-Enhanced Tech Bootcamp Platform**  
-- **Description**: Built an AI-powered **bootcamp software engineer** platform for personalized learning paths in **web development bootcamp** programs.  
-- **Key Features**:  
-  - AI-driven course recommendations and performance analytics.  
-  - Real-time collaboration tools for group projects.  
-  - Gamified learning modules to enhance student engagement.  
-- **Technologies**: Python, TensorFlow, Django, PostgreSQL.  
-- **Link**: [Metana AI Tech Bootcamp](https://metana.io/tech-bootcamp)
-
 ---
 
 ## Skills & Expertise 🛠️  
