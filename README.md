@@ -94,7 +94,7 @@ Next on my list: Writing a comprehensive guide on **scalable architecture for mo
 ---
 
 Feel free to explore my GitHub and reach out to collaborate or discuss opportunities!  
-📧 **Email**: kavinesh@example.com  
+📧 **Email**: john@example.com  
 🔗 [Portfolio](https://john.github.io) | [LinkedIn](https://linkedin.com/in/john)
 
 
