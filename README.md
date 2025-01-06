@@ -13,7 +13,7 @@ When I’m not coding or mentoring, I enjoy experimenting with new recipes, read
 
 I hold a Bachelor’s Degree in Computer Science with a focus on software engineering and scalable system design. My career has been dedicated to creating impactful solutions that combine innovation and practicality.
 
-Feel free to connect with me to collaborate on exciting projects or discuss new opportunities. You can reach me via email at **kavinesh@example.com** or on [LinkedIn](https://linkedin.com/in/kavinesh).  
+Feel free to connect with me to collaborate on exciting projects or discuss new opportunities. You can reach me via email at **john@example.com** or on [LinkedIn](https://linkedin.com/in/kavinesh).  
 
 🔗 [Portfolio](https://kavinesh.github.io) | [LinkedIn](https://linkedin.com/in/kavinesh)  
 
@@ -39,7 +39,7 @@ A blockchain-based platform that ensures secure, transparent, and tamper-proof v
   - Transparent voting results accessible to all participants.  
   - Multi-platform accessibility for seamless user interaction.  
 - **Technologies**: Solidity, Ethereum, Hardhat, React, Node.js.  
-- **Link**: [Decentralized Voting Platform](https://github.com/kavinesh/decentralized-voting)  
+- **Link**: [Decentralized Voting Platform](https://github.com/john/decentralized-voting)  
 
 ---
 
@@ -51,7 +51,7 @@ A comprehensive web application designed to help users manage their finances eff
   - Real-time expense tracking with visualizations using Chart.js.  
   - Scalable backend to handle high user traffic efficiently.  
 - **Technologies**: React, Node.js, Express.js, MongoDB, AWS.  
-- **Link**: [Full Stack Expense Tracker](https://github.com/kavinesh/expense-tracker)  
+- **Link**: [Full Stack Expense Tracker](https://github.com/john/expense-tracker)  
 
 ---
 
@@ -63,7 +63,7 @@ An interactive learning management system integrating AI for personalized conten
   - Real-time analytics dashboard for tracking learning outcomes.  
   - Gamified modules to enhance engagement.  
 - **Technologies**: Python, TensorFlow, Django, PostgreSQL.  
-- **Link**: [AI-Powered E-Learning Platform](https://github.com/kavinesh/ai-elearning-platform)  
+- **Link**: [AI-Powered E-Learning Platform](https://github.com/john/ai-elearning-platform)  
 
 ---
 
@@ -95,7 +95,7 @@ Next on my list: Writing a comprehensive guide on **scalable architecture for mo
 
 Feel free to explore my GitHub and reach out to collaborate or discuss opportunities!  
 📧 **Email**: kavinesh@example.com  
-🔗 [Portfolio](https://kavinesh.github.io) | [LinkedIn](https://linkedin.com/in/kavinesh)
+🔗 [Portfolio](https://john.github.io) | [LinkedIn](https://linkedin.com/in/john)
 
 
 
