@@ -1,6 +1,6 @@
 # John
 
-**Lead Software Engineer | AI & Web3 Innovator | Bootcamp Mentor**  
+**Lead Software Engineer | Web3 Innovator | Bootcamp Mentor**  
 
 ---
 
